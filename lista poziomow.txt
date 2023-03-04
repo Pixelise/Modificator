@@ -1,0 +1,30 @@
+0 Wioska
+1 Trening
+2 Kopuła
+3 Las
+4 Polana Huggina
+5 Droga do jaskiń
+6 Pogoń
+7 Korytarz 1
+8 Ruchome półki
+9 Korytarz 2
+10 Kamienne kule
+11 Korytarz 3
+12 Kamienne bloki
+13 Korytarz 4
+14 Pajęczyna
+15 Korytarz 5
+16 Obrotowe półki
+17 Korytarz 6
+18 Spadająca półka
+19 Kamienny pies
+20 Komnata gnomów
+21 Kolejka
+22 Polana Huggina 2
+23 Machina
+24 Droga na górę Freyji
+25 Szczyt góry Freyji
+26 Drakkar
+27 Labirynt olbrzymów
+28 Chmury
+29 Góra Thora
